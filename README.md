@@ -15,6 +15,28 @@ gcc -W -Wall -o myhttp myhttp.c -lpthread
 
 默认端口号为9190
 
+# 演示
+
+**启动服务器**
+
+![](./image/1.png)
+
+**输入url **
+
+![](./image/3.png)
+
+
+
+**输入表单**
+
+![](./image/4.png)
+
+**信息回显**
+
+![](./image/2.png)
+
+![](./image/5.png)
+
 # 参考
 
 https://github.com/forthespada/MyPoorWebServer
